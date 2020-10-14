@@ -1,0 +1,13 @@
+C:\Users\ensar\Desktop\ferdateam\bin\Debug\netcoreapp3.1\ferdateam.exe
+C:\Users\ensar\Desktop\ferdateam\bin\Debug\netcoreapp3.1\ferdateam.deps.json
+C:\Users\ensar\Desktop\ferdateam\bin\Debug\netcoreapp3.1\ferdateam.runtimeconfig.json
+C:\Users\ensar\Desktop\ferdateam\bin\Debug\netcoreapp3.1\ferdateam.runtimeconfig.dev.json
+C:\Users\ensar\Desktop\ferdateam\bin\Debug\netcoreapp3.1\ferdateam.dll
+C:\Users\ensar\Desktop\ferdateam\bin\Debug\netcoreapp3.1\ferdateam.pdb
+C:\Users\ensar\Desktop\ferdateam\obj\Debug\netcoreapp3.1\ferdateam.csprojAssemblyReference.cache
+C:\Users\ensar\Desktop\ferdateam\obj\Debug\netcoreapp3.1\ferdateam.AssemblyInfoInputs.cache
+C:\Users\ensar\Desktop\ferdateam\obj\Debug\netcoreapp3.1\ferdateam.AssemblyInfo.cs
+C:\Users\ensar\Desktop\ferdateam\obj\Debug\netcoreapp3.1\ferdateam.csproj.CoreCompileInputs.cache
+C:\Users\ensar\Desktop\ferdateam\obj\Debug\netcoreapp3.1\ferdateam.dll
+C:\Users\ensar\Desktop\ferdateam\obj\Debug\netcoreapp3.1\ferdateam.pdb
+C:\Users\ensar\Desktop\ferdateam\obj\Debug\netcoreapp3.1\ferdateam.genruntimeconfig.cache
